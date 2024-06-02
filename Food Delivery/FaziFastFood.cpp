@@ -3,7 +3,7 @@
 using namespace std;
 class Pizza
 {
-	private:
+	private;
 		int pchoice,pchoice1,quantity,bill;
     	char pizza1[50] = "Chicken Fazita" ,pizza2[50]="Chicken Bar BQ" ,pizza3[50]="Peri Peri" ,pizza4[50]="Creamy Max";
     public:
@@ -86,7 +86,7 @@ class Pizza
         
 
 	}
-};
+}:
 class Burgers
 {
     private:
@@ -133,7 +133,7 @@ class Burgers
                     cout<<"\n\n>Thank you For Ordering From FAZI. Fast Food\n";
                     break;
                 }
-                case 2:
+                Case 2:
                 {
                     cout<<"\t\t\t--------Your Order Sir---------\n";
                     cout<<""<<quantity<<" "<<bur2;
@@ -289,9 +289,9 @@ class Biryani
 };
 int  main()
 {
-	int choice;
+	int choice 
     char cho1;
-    stat:
+    stat;
 	cout<<"\t\t\t     FAZI FAST FOOD ";
 	cout<<"\n\t\t\t\t   at "<<endl;
 	cout<<"\t\t\t CHOWK AZAM ROAD LAYYAH "<<endl;
