@@ -8,7 +8,7 @@ class Pizza
     	char pizza1[50] = "Chicken Fazita" ,pizza2[50]="Chicken Bar BQ" ,pizza3[50]="Peri Peri" ,pizza4[50]="Creamy Max";
     public:
 	Pizza()
-	{
+	{cout<<"bado badi bado badi";
 		cout<<"\n1) "<<pizza1<<"\n";
         cout<<"2) "<<pizza2<<"\n";
         cout<<"3) "<<pizza3<<"\n";
